@@ -29,3 +29,6 @@ What is done so far:
 ✅ Swipe left/right for a joke
 
 
+Gif Presentation:
+![There should be a gif](https://giphy.com/embed/qXCy8qhFLx5rPc2bUG)
+
