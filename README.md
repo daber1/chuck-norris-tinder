@@ -30,7 +30,7 @@ What is done so far:
 
 ❎ Avoid lint errors/warnings/infos
 
-Link for apk: <a href="https://drive.google.com/file/d/1VWINe9gsxvEPdrDHbfJ9PddkSFkPq3eB/view?usp=sharing" target="_blank" rel="noreferrer noopener">Click here</a>
+Link for apk: <a href="https://drive.google.com/file/d/1DBP3vENZcHYr5kCTAHlKh2Ntd-rTW5RN/view?usp=sharing" target="_blank" rel="noreferrer noopener">Click here</a>
 
 
 Gif Presentation:
