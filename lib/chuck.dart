@@ -65,16 +65,16 @@ class BodyLoading extends StatelessWidget {
                 ));
           }
           return const Card(
-              color: const Color(0xFFF5D042),
-              shape: const RoundedRectangleBorder(
+              color: Color(0xFFF5D042),
+              shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.all(Radius.circular(10)),
                 side: BorderSide(width: 5, color: Color(0xFF0A174E)),
               ),
               child: Padding(
-                padding: const EdgeInsets.only(top: 50.0, left: 10, right: 10),
+                padding: EdgeInsets.only(top: 50.0, left: 10, right: 10),
                 child: Text(
                   "Chuck Norris is coming...",
-                  style: const TextStyle(
+                  style: TextStyle(
                       fontFamily: 'Arial',
                       fontWeight: FontWeight.bold,
                       color: Color(0xFF0A174E)),
@@ -90,8 +90,31 @@ class BodyLoading extends StatelessWidget {
     return Center(
       child: Column(
         children: [
+          IconButton(onPressed: (){
+            showDialog(context: context, builder: (context){
+              return Dialog(
+                shape: const RoundedRectangleBorder(borderRadius: BorderRadius.all(Radius.circular(10)),
+                side: BorderSide(width:5,color:Color(0xFF0A174E)),
+                ),
+                child: SizedBox(
+                  width: screenHeight*0.9,
+                  height: screenWidth*0.9,
+
+                  child: const Padding(
+                    padding: EdgeInsets.all(32.0),
+                    child: Center(
+                      child: Text("This Chuck Frickin Norris App was made by Vladislav Lopatovskii, an Innopolis University Student. ",
+                      style: TextStyle(fontFamily: 'Arial',fontWeight: FontWeight.w400),
+                      textAlign: TextAlign.center,),
+                    ),
+                  ),
+                )
+              );
+            });
+          }, icon: const Icon(Icons.info))
+          ,
           SizedBox(
-            height: screenHeight - 200,
+            height: screenHeight - 300,
             // width: MediaQuery.of(context).size.width,
             child: TinderSwapCard(
               cardController: cardController,
@@ -115,6 +138,7 @@ class BodyLoading extends StatelessWidget {
             icon: const Icon(Icons.thumb_up),
           )
         ],
+
       ),
     );
   }
