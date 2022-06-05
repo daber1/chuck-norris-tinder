@@ -30,5 +30,11 @@ What is done so far:
 
 
 Gif Presentation:
-![There should be a gif](https://giphy.com/embed/qXCy8qhFLx5rPc2bUG)
 
+![There should be a gif](https://media.giphy.com/media/qXCy8qhFLx5rPc2bUG/giphy.gif)
+
+Screenshots:
+
+<img src = "https://i.imgur.com/qpiCKYY.jpg" width="270" height="540">
+
+<img src = "https://i.imgur.com/730rwpg.jpg" width="270" height="540">
