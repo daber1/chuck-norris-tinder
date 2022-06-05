@@ -29,7 +29,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_tindercard: ^0.1.7
+  flutter_tindercard_modified:
+    git:
+      url: https://github.com/daber1/flutter_tindercard_modified
   http:
   json_annotation: ^4.4.0
 
@@ -41,7 +43,6 @@ dependencies:
 dev_dependencies:
   build_runner: ^2.0.0
   json_serializable: ^6.0.0
-  swipeable_card_stack:
   flutter_test:
     sdk: flutter
 
