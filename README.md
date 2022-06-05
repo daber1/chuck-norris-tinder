@@ -28,8 +28,7 @@ What is done so far:
 
 ✅ Swipe left/right for a joke
 
-Link for apk:
-<a href="https://drive.google.com/file/d/1VWINe9gsxvEPdrDHbfJ9PddkSFkPq3eB/view?usp=sharing" target="_blank" rel="noreferrer noopener">Click here</a>
+Link for apk: <a href="https://drive.google.com/file/d/1VWINe9gsxvEPdrDHbfJ9PddkSFkPq3eB/view?usp=sharing" target="_blank" rel="noreferrer noopener">Click here</a>
 
 
 Gif Presentation:
