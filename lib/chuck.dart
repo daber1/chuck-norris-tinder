@@ -21,7 +21,7 @@ class _ChuckCardPageState extends State<ChuckCardPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('God, help me'),
+        title: const Text('Do you Chuck this joke?'),
       ),
       backgroundColor: Colors.white,
       body: const SafeArea(
