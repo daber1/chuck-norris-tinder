@@ -22,21 +22,25 @@ What is done so far:
 
 ✅ Use json_serializable or freezed for Joke model
 
-❎ Avoid lint errors/warnings/infos
-
 ✅ Keep your code formatted
 
 ✅ Swipe left/right for a joke
 
-Link for apk: <a href="https://drive.google.com/file/d/1VWINe9gsxvEPdrDHbfJ9PddkSFkPq3eB/view?usp=sharing" target="_blank" rel="noreferrer noopener">Click here</a>
+✅ Show a dialog with your personal info
+
+❎ Avoid lint errors/warnings/infos
+
+Link for apk: <a href="https://drive.google.com/file/d/1DBP3vENZcHYr5kCTAHlKh2Ntd-rTW5RN/view?usp=sharing" target="_blank" rel="noreferrer noopener">Click here</a>
 
 
 Gif Presentation:
 
-![There should be a gif](https://media.giphy.com/media/qXCy8qhFLx5rPc2bUG/giphy.gif)
+![There should be a gif](https://media.giphy.com/media/6iLQQmxy4tv1Cz78hh/giphy.gif)
 
 Screenshots:
 
-<img src = "https://i.imgur.com/qpiCKYY.jpg" width="270" height="540">
+<img src = "https://i.imgur.com/OMjRu8k.jpg" width="270" height="540">
 
-<img src = "https://i.imgur.com/730rwpg.jpg" width="270" height="540">
+<img src = "https://i.imgur.com/7O1XUBX.jpg" width="270" height="540">
+
+<img src = "https://i.imgur.com/UrsdU8J.jpg" width="270" height="540">
